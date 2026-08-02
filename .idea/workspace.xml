@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0aa9abac-b9a0-4581-8faf-2f1282870550" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,8 +10,74 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3225789438268447" />
+      <entry key="MS500" value="2.86158498561998" />
+      <entry key="S2" value="5.003879539560372" />
+      <entry key="S5" value="6.047045919667308" />
+      <entry key="S10" value="6.492549663232412" />
+      <entry key="S30" value="6.823394463431227" />
+      <entry key="S60" value="6.911507089331768" />
+      <entry key="M2" value="7.003632203340995" />
+      <entry key="M5" value="7.925464421786473" />
+      <entry key="M10" value="13.99107791888354" />
+      <entry key="M15" value="23.3858904849035" />
+      <entry key="M30" value="48.34677892328884" />
+      <entry key="H1" value="74.59569947092353" />
+      <entry key="H2" value="94.13450786727866" />
+      <entry key="H4" value="106.14998097858168" />
+      <entry key="D1" value="117.55168119228395" />
+      <entry key="W1" value="119.64663355884576" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.2538499550377142E-134" />
+      <entry key="S10" value="1.1197544172887717E-67" />
+      <entry key="S30" value="4.81995392708752E-23" />
+      <entry key="S60" value="6.957337483747048E-12" />
+      <entry key="M2" value="2.7639350648936825E-6" />
+      <entry key="M5" value="0.008669365125920215" />
+      <entry key="M10" value="0.17515120513682222" />
+      <entry key="M15" value="0.5140211383960296" />
+      <entry key="M30" value="1.5718245868380178" />
+      <entry key="H1" value="2.790183207074582" />
+      <entry key="H2" value="3.730801283695719" />
+      <entry key="H4" value="4.317806858610469" />
+      <entry key="D1" value="4.879050539318408" />
+      <entry key="W1" value="4.982534929479876" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.177705128885971" />
+      <entry key="MS500" value="2.732223818308457" />
+      <entry key="S2" value="4.9435823345994" />
+      <entry key="S5" value="6.019081251756405" />
+      <entry key="S10" value="6.47782524277791" />
+      <entry key="S30" value="6.818310423839123" />
+      <entry key="S60" value="6.908905990382631" />
+      <entry key="M2" value="7.001157802755289" />
+      <entry key="M5" value="7.927347044073189" />
+      <entry key="M10" value="14.155279567957203" />
+      <entry key="M15" value="23.88643040070403" />
+      <entry key="M30" value="49.903841813608494" />
+      <entry key="H1" value="77.37422686352272" />
+      <entry key="H2" value="97.85787238591811" />
+      <entry key="H4" value="110.46357203188313" />
+      <entry key="D1" value="122.42995018102167" />
+      <entry key="W1" value="124.6290547636106" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3,
@@ -22,12 +91,68 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.practice_validations.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHELLCHECK.PATH": "C:\\Users\\Lenovo\\AppData\\Roaming\\JetBrains\\PyCharm2026.1\\plugins\\Shell Script\\shellcheck.exe",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="AmicaInsurance_DW_Automation" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="AmicaInsurance_DW_Automation" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmicaInsurance_DW_Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,5 +172,27 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
